@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 def display():
     print('Twinkle,twinkle,little star,')
     print("        " 'How I wonder what you are!')
@@ -13,10 +7,3 @@ def display():
     print("        " 'How I wonder what you are!')
 
 display()
-
-
-# In[ ]:
-
-
-
-
